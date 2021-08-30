@@ -16,7 +16,7 @@ This application demonstrates; Create, Read, Update and Delete methods using Seq
 To interface with this application, clone the repository to your local device and run `npm install` from the root of the project directory, to install the relevant dependencies.
 
 ## Usage
-For a full walkthrough of how to use this application, [please visit the walkthrough video]().  
+For a full walkthrough of how to use this application, [please visit the walkthrough video](https://drive.google.com/file/d/1UgYWDgZXtHrLKvS3vmy5sIc9o-qewPGv/view).  
 
 ## Features
 The full list of features for this application is located in the package.json file's list of dependencies.
